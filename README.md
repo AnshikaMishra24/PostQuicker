@@ -1,5 +1,6 @@
 # PostQuicker
 # project-genai-post-generator
+http://localhost:8507/#linked-in-post-generator-codebasics
 This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts  
 
 <img src="tool.jpg"/>
